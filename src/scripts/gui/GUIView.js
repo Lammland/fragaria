@@ -1,4 +1,3 @@
-import ControlKit from '@brunoimbrizi/controlkit';
 import Stats from 'stats.js';
 
 export default class GUIView {
